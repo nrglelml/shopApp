@@ -1,0 +1,10 @@
+const search = require('./search.png');
+const camera = require('./camera.png');
+const agenda = require('./agenda.png');
+const user = require('./user.png');
+const cart = require('./cart.png');
+const home = require('./home.png');
+const heart = require('./heart.png');
+const heart2 = require('./fullHeart.png');
+const back = require('./back.png');
+export {search, camera, agenda, user, cart, home, heart, heart2, back};
